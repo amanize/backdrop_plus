@@ -1,43 +1,18 @@
-[![Flutter Community: backdrop](https://fluttercommunity.dev/_github/header/backdrop)](https://github.com/fluttercommunity/community)
 
-# backdrop
 
-<p>
-<a href="https://pub.dev/packages/backdrop"><img src="https://img.shields.io/pub/v/backdrop?logo=dart" alt="pub.dev"></a>
-<a href="https://github.com/fluttercommunity/backdrop/actions/workflows/ci.yml"><img src="https://github.com/fluttercommunity/backdrop/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
-<a href="https://fluttercommunity.github.io/backdrop/demo/#/"><img src="https://img.shields.io/badge/check-demo-blueviolet" alt="Demo"></a>
-<a href="https://github.com/Solido/awesome-flutter"><img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true" /></a>  
-<a href="https://gitter.im/flutter-backdrop/community?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge"><img src="https://badges.gitter.im/flutter-backdrop/community.svg" alt="Gitter"></a>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<a href="#contributors-"><img src="https://img.shields.io/badge/all_contributors-23-orange.svg" alt="All Contributors" /></a>
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-<a href="https://pub.dev/packages/backdrop/score"><img src="https://img.shields.io/pub/points/backdrop?logo=dart" alt="pub points"></a>
-<a href="https://pub.dev/packages/backdrop/score"><img src="https://img.shields.io/pub/popularity/backdrop?logo=dart" alt="popularity"></a>
-<a href="https://pub.dev/packages/backdrop/score"><img src="https://img.shields.io/pub/likes/backdrop?logo=dart" alt="likes"></a>
-<a href="https://github.com/fluttercommunity/backdrop/issues"><img src="https://img.shields.io/github/issues/fluttercommunity/backdrop?logo=github" alt="GitHub issues"></a>
-<a href="https://github.com/fluttercommunity/backdrop/milestone/1"><img src="https://img.shields.io/github/milestones/progress-percent/fluttercommunity/backdrop/1?logo=github" alt="GitHub milestone"></a>
-<a href="https://github.com/fluttercommunity/backdrop/stargazers"><img src="https://img.shields.io/github/stars/fluttercommunity/backdrop?logo=github" alt="GitHub stars"></a>
-<a href="https://github.com/fluttercommunity/backdrop/network"><img src="https://img.shields.io/github/forks/fluttercommunity/backdrop?logo=github" alt="GitHub forks"></a>
-<a href="https://gitlab.com/daadu/backdrop/-/starrers"><img src="https://img.shields.io/badge/dynamic/json?label=stars&amp;query=%24.star_count&amp;url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F7578401&amp;logo=gitlab" alt="Gitlab stars"></a>
-<a href="https://gitlab.com/daadu/backdrop/-/forks"><img src="https://img.shields.io/badge/dynamic/json?label=forks&amp;query=%24.forks_count&amp;url=https%3A%2F%2Fgitlab.com%2Fapi%2Fv4%2Fprojects%2F7578401&amp;logo=gitlab" alt="Gitlab forks"></a>
-</p>
 
+
+
+# backdrop_plus
+Original: https://pub.dev/packages/backdrop
+Author: Harsh Bhikadia(@daadu)
+
+Forked for maintaining.
 
 [Backdrop](https://material.io/design/components/backdrop.html) implementation in flutter. 
 
 This widget is in active development. 
 ___Any contribution, idea, criticism or feedback is welcomed.___
-
-## Quick links
-
-| | |
-|-|-|
-| __Package__ | https://pub.dev/packages/backdrop |
-| __API Docs__ | https://pub.dev/documentation/backdrop/latest/backdrop/backdrop-library.html |
-| __Live Demo__ | https://fluttercommunity.github.io/backdrop/demo/#/ |
-| __Git Repo__  | https://github.com/fluttercommunity/backdrop |
-| __Issue Tracker__ | https://github.com/fluttercommunity/backdrop/issues |
-| __Chat Room__ | https://gitter.im/flutter-backdrop |
 
 ## Usage
 ### BackdropScaffold
