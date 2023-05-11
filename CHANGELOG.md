@@ -1,3 +1,9 @@
+## [0.9.0] - 11 May 2023
+
+- **BREAKING****REFACTOR**: removed all deprecated members
+- **BREAKING****REFACTOR**: update SDK constraints to '>=3.0.0 <4.0.0'
+- **BREAKING****REFACTOR**: package renamed to backdrop_plus
+
 ## [0.8.1] - 28 August 2022
 
 - **DOCS**: fix badge links

@@ -1,5 +1,6 @@
-import 'package:backdrop/backdrop.dart';
 import 'package:flutter/material.dart';
+
+import 'package:backdrop_plus/src/scaffold.dart';
 
 /// Implements the back layer to be used for navigation.
 ///

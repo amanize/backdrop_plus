@@ -1,4 +1,4 @@
-library backdrop;
+library backdrop_plus;
 
 export 'src/app_bar.dart';
 export 'src/button.dart';

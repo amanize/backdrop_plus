@@ -1,7 +1,7 @@
-import 'package:backdrop/backdrop.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
+import 'package:backdrop_plus/backdrop_plus.dart';
 
 /// [InheritedWidget] that exposes state of [BackdropScaffold].
 ///
@@ -585,7 +585,7 @@ class BackdropScaffoldState extends State<BackdropScaffold>
                   onChange: (size) =>
                       setState(() => _subHeaderHeight = size.height),
                   child: DefaultTextStyle(
-                    style: Theme.of(context).textTheme.subtitle1!,
+                    style: Theme.of(context).textTheme.titleMedium!,
                     child: widget.subHeader ?? Container(),
                   ),
                 ),

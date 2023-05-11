@@ -1,4 +1,4 @@
-import 'package:backdrop/backdrop.dart';
+import 'package:backdrop_plus/backdrop_plus.dart';
 import 'package:flutter/material.dart';
 
 /// An animated button with backdrop related functionality.

@@ -1,4 +1,4 @@
-import 'package:backdrop/backdrop.dart';
+import 'package:backdrop_plus/backdrop_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -79,15 +79,11 @@ class BackdropAppBar extends StatelessWidget implements PreferredSizeWidget {
   /// See [AppBar.foregroundColor].
   final Color? foregroundColor;
 
-  /// See [AppBar.brightness].
-
   /// See [AppBar.iconTheme].
   final IconThemeData? iconTheme;
 
   /// See [AppBar.actionsIconTheme].
   final IconThemeData? actionsIconTheme;
-
-  /// See [AppBar.textTheme].
 
   /// See [AppBar.primary].
   final bool primary;

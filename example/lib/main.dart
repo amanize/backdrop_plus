@@ -4,7 +4,7 @@
 *
 * */
 
-import 'package:backdrop/backdrop.dart';
+import 'package:backdrop/backdrop_plus.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
